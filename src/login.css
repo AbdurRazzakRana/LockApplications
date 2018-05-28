@@ -1,0 +1,35 @@
+
+#root {
+ -fx-background-color:  linear-gradient(lightgray, blue);
+ -fx-border-color: white;
+ -fx-border-radius: 20;
+ -fx-padding: 10 10 10 10;
+ -fx-background-radius: 20;
+ 
+}
+
+#bp {
+ -fx-background-color:  linear-gradient(gray,DimGrey );
+ 
+}
+
+#btnLogin {
+    -fx-background: 30, 30, 30, 30;
+    -fx-padding: 3px 30px 3px 30px;
+    -fx-background-color: whitesmoke;
+    
+
+
+}
+.button:hover {
+
+        -fx-scale-y: 1.5;
+
+
+}
+
+
+
+#text {
+ -fx-fill:  linear-gradient(white, whitesmoke);
+}
